@@ -14,6 +14,16 @@ Aiming to understand the basics of github
 The first two things you'll want to do are install git and create a free GitHub account.
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
+https://gist.github.com/derhuerst/1b15ff4652a867391f03
+
+**ssh keys and agent**
+
+https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+
 
 **Step 02: Initializing a Repository**
 
