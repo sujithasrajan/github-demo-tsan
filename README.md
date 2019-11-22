@@ -86,7 +86,7 @@ First we run git checkout master to change the active branch back to master. The
 
 **PART 03**
 
-git merge vs git rebase
+**git merge vs git rebase**
 
 **STEP 01: UNDERSTANDING GIT MERGE**
 
@@ -136,8 +136,15 @@ git merge vs git rebase
 
 *git rebase master*
 
+**PART 04**
 
-Things to explore on :
+**git pull and fork**
+
+Create a pull request to propose and collaborate on changes to a repository. These changes are proposed in a branch, which ensures that the master branch only contains finished and approved work.
+Anyone with read permissions to a repository can create a pull request, but you must have write permissions to create a branch. If you want to create a new branch for your pull request and don't have write permissions to the repository, you can fork the repository first.
+
+
+**Things to explore on :**
 
 1. git stash
 
